@@ -1,0 +1,15 @@
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\bin\Debug\net7.0\CalculadoraImc.exe
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\bin\Debug\net7.0\CalculadoraImc.deps.json
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\bin\Debug\net7.0\CalculadoraImc.runtimeconfig.json
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\bin\Debug\net7.0\CalculadoraImc.dll
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\bin\Debug\net7.0\CalculadoraImc.pdb
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.AssemblyInfo.cs
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.dll
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\refint\CalculadoraImc.dll
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.pdb
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\CalculadoraImc.genruntimeconfig.cache
+C:\Users\olive\Desktop\Projetoc#\CalculadoraImc\CalculadoraImc\obj\Debug\net7.0\ref\CalculadoraImc.dll
